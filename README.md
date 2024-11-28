@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito. <br/>
-<a href="https://www.linkedin.com/in/andr%C3%A9-rolim-b8271b207/">Conheça mais sobre esse e outros projetos clicando aqui.</a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-s-rolim-b8271b207/">Conheça mais sobre esse e outros projetos clicando aqui.</a>
 </p>
 
 <p align="center">
